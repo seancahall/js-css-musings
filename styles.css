@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.picture-group {
+  float: left;
+  text-align: center;
+  border: solid 1px;
+  padding: 10px;
+  height: 300px;
+  width: 25%;
+}
